@@ -1,4 +1,4 @@
-# Fully Functional Database Engine with support for B+ tree index and Paging using Java
+# Fully Functional Database Engine with Support for B+ Tree Index and Paging using Java
 I developed a fully functional Database Engine in Java with support for B+ tree index that supports fundamental Database operations like creating tables, creating indices, inserting tuples, updating tuples, deleting tuples and selecting tuples. 
 I also needed to take into account the efficiency of the program so that it can handle large volumes of data, ensuring that efficient searching algorithms were used in order to look for and retrieve needed data, utilizing indices created or otherwise using binary search whenever possible.
 The Database Engine also supports Paging, as well as B+ Tree Indices that can be created on any column. This index can be later used in the lookup algorithms to make the process of data retrieval faster.
